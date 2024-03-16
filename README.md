@@ -8,7 +8,8 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ScoreHMR-jupyter/blob/main/ScoreHMR_jupyter.ipynb) | ScoreHMR_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ScoreHMR-jupyter/blob/main/ScoreHMR_image_jupyter.ipynb) | ScoreHMR_image_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ScoreHMR-jupyter/blob/main/ScoreHMR_video_jupyter.ipynb) | ScoreHMR_video_jupyter
 
 ### 🧬 Code
 https://github.com/statho/ScoreHMR
