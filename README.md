@@ -19,6 +19,7 @@ https://statho.github.io/ScoreHMR/
 
 ### 🖼 Output
 ![f080b035-f64a-4b4e-9cd4-2108a40fa0e3](https://github.com/camenduru/ScoreHMR-jupyter/assets/54370274/c8176ed6-bbcd-4443-b90c-cd28cf4cfddf)
+![6cb8e7d9-efbc-449f-b21a-9339fc9f58c7](https://github.com/camenduru/ScoreHMR-jupyter/assets/54370274/44932192-db68-44fb-a9f2-6f5aa18719a3)
 
 ### 🏢 Sponsor
 https://modelslab.com
