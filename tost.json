@@ -1,0 +1,19 @@
+{
+    "$schema": "http://json-schema.org/draft-04/hyper-schema#",
+    "type": "object",
+    "properties": {
+      "readme": {
+        "type": "string",
+        "title": "Score-Guided Diffusion for 3D Human Recovery",
+        "author": "Anastasis Stathopoulos, Ligong Han, Dimitris Metaxas",
+        "code": "https://github.com/statho/ScoreHMR",
+        "paper": "https://arxiv.org/abs/2403.09623",
+        "page": "https://statho.github.io/ScoreHMR/",
+        "jupyter": "https://github.com/camenduru/ScoreHMR-jupyter",
+        "tags": [
+          "Image to Motion"
+        ],
+        "widget": "readme"
+      }
+    }
+  }
